@@ -1,18 +1,19 @@
 /*   STEP 1   */
-export const leagueID = "your_league_id"; // your league ID
-export const leagueName = "your_league_name"; // your league name
+export const leagueID = "1048184735417126912"; // your league ID
+export const leagueName = "Guinness Dynasty League"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Het is de zomer van 2013 als een groep vrienden uit Noord-Holland bij elkaar komt en na enkele jaren van Fantasy Football single seasons besluit om de volgende stap te zetten.Een Dynasty League. Commitment is key, het enthousiasme groot en het deelnemersveld is dan ook gauw ingevuld.</p>
+  <p>Voor de aanvang van ieder seizoen volgt onder het genot van een hapje, drankje en de nodige real-life trashtalk een Rookie Draft  en worden tevens de prijzen uitgereikt aan de winnaar van het voorgaande seizoen.</p>
+  <p>Gedurende vele jaren blijkt de opzet van deze Dynasty League een groot succes. Besluiten rondom spelwijzigingen worden democratisch besloten, het aantal deelnemers stabiel en in het uitzonderlijke geval dat er iemand stopt is een vervanger snel gevonden.</p>
+  <p>Helaas komt hier in het seizoen 20/21 een einde aan. Naast de komst van covid zorgen ook een aantal persoonlijke dieptepunten voor het einde  van een tijdperk.</p>
+  <p>Ondanks alle uitdagingen blijft de liefde voor het spelletje groot. Een single season wakkert het vlammetje verder aan en uiteindelijk leidt dit tot een herstart van de Dynasty League.</p>
+  <p>Het oude deelnemersveld word grotendeels hersteld, een startup draft gepland, picks en spelers worden uitgewisseld.</p> 
+  <p>Let the season begin!</p>
 `;
 
 /*   STEP 3   */
